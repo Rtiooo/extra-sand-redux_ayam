@@ -8,5 +8,5 @@
     "java": true,
     "main": "extrasandredux.ExtraSandRedux",
     "repo": "MEEPofFaith/extra-sand-redux",
-    "dependencies": ["Chicken-library"]
+    "dependencies": ["chicken-renderer"]
 }
